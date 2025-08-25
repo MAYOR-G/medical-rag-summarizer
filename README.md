@@ -69,7 +69,7 @@ In this project, the RAG system retrieves from **medical sources** before genera
 - **Other Libraries:** PyMuPDF (`fitz`) for PDF extraction, Pydantic for schema validation
 
 ---
-
+```markdown
 ## ⚙️ How It Works (Step by Step)
 
 ```mermaid
