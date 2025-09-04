@@ -6,6 +6,8 @@ A Retrieval-Augmented Generation (RAG) project for summarizing medical reports u
 
 ---
 
+https://github.com/user-attachments/assets/777a7651-eda0-4d6e-a2e0-651268e21730
+
 ## 📝 Table of Contents
 
 - [About the Project](#about-the-project)
